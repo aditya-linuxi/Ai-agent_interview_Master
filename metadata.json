@@ -1,0 +1,7 @@
+{
+  "name": "InterviewMaster AI Pro",
+  "description": "World-class executive interview coach powered by Gemini Live API. Real-time voice interaction, instant feedback, and technical drills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
